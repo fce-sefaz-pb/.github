@@ -12,8 +12,8 @@
   Organization for the development of projects carried out in partnership between NUTES/UEPB and Sefaz/PB
 </p>
 
-<div background-color="white">  
-  <img src="https://drive.google.com/uc?export=view&id=1rQZsn6nu-5Rmn32uz_d6W4PS_0Vr6x4W" alt="FC-e system architecture">
+<div>  
+  <img src="profile/architecture_overview.jpg" alt="FC-e system architecture">
 </div>
 
 <ul>
