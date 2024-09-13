@@ -13,7 +13,7 @@
 </p>
 
 <div>  
-  <img src="profile/architecture_overview.jpg" alt="FC-e system architecture">
+  <img src="architecture_overview.jpg" alt="FC-e system architecture">
 </div>
 
 <ul>
